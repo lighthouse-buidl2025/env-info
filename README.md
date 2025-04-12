@@ -88,5 +88,3 @@ http://localhost:8023/env-info
 }
 ```
 
----
-추가로 어떤 포맷이 더 필요할까? Markdown 그대로 README에 붙여도 돼.
