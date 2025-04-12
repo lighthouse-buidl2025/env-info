@@ -17,7 +17,7 @@ func main() {
 
 	routes.RegisterEnvInfoRoutes(r)
 
-	err = r.Run(":8092")
+	err = r.Run(":8023")
 	if err != nil {
 		log.Fatalf("Failed to start server: %v", err)
 		return
