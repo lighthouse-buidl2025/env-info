@@ -55,13 +55,9 @@ http://localhost:8023/env-info
   "address": "0x...",
   "name": "aave",
   "category": "lending",
-  "chain": ["Ethereum", "Polygon", "Arbitrum"],
-  "tvl": 1200000000,
-  "tx_count_total": 123000,
-  "tx_count_30d": 8200,
-  "users_count": 6700,
-  "deployed_at": "2020-12-03T00:00:00Z"
+  "Description": "aave is blah blah"
 }
+
 ```
 
 ### ✅ 응답 예시 – Token
@@ -71,8 +67,6 @@ http://localhost:8023/env-info
   "address": "0x...",
   "name": "Aave Token",
   "symbol": "AAVE",
-  "decimals": 18,
-  "chain": ["Ethereum"]
 }
 ```
 
