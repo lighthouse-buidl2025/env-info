@@ -8,7 +8,7 @@
 ## 🧩 Base URL
 
 ```
-http://localhost:8023/env-info
+http://localhost:8023/api/env-info
 ```
 
 ---
